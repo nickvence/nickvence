@@ -1,4 +1,4 @@
-- Hello I am @nickvence, and I am 
+- Hello I am:
 - ⚛  transitioning from a physics into data science.
 - 👀   curious about a lot of things: statistics, technical writing, public speaking, science, etc.
 - 🌱   learning R as a platform for statistics, technical communication, machine learning, visualization.

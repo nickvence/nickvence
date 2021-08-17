@@ -4,7 +4,7 @@
 - 📦   learning tidyverse packages (in alphabetical order): broom, ggplot, infer, patchwork, plotly, pwr, rstatix.
 - 💞️   showcasing my projects on nickvence.github.io .
 - 📫   networking: reach out to nickvence@gmail.com.
-- 👀   curious: statistics, people, algorithms, science, etc.
+- 👀   curious: statistics, people, algorithms, science, ...
 
 <!---
 nickvence/nickvence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
